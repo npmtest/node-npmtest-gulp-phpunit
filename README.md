@@ -1,4 +1,7 @@
-# test coverage for  [gulp-phpunit (v0.22.2)](https://github.com/mikeerickson/gulp-phpunit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-phpunit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-phpunit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-phpunit.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-phpunit)
+# npmtest-gulp-phpunit
+
+#### test coverage for  [gulp-phpunit (v0.22.2)](https://github.com/mikeerickson/gulp-phpunit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-phpunit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-phpunit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-phpunit.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-phpunit)
+
 #### PHPUnit plugin for Gulp
 
 [![NPM](https://nodei.co/npm/gulp-phpunit.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-phpunit)
