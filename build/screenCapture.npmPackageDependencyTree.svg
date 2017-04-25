@@ -49,7 +49,7 @@
 <tspan x="10" y="746">  │ │ │ │ │ │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="762">  │ │ │ │ │ ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="778">  │ │ │ │ │ ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="794">  │ │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="794">  │ │ │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="810">  │ │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="826">  │ │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="842">  │ │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -224,7 +224,7 @@
 <tspan x="10" y="3546">    │ └── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="3562">    ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="3578">    └─┬ rechoir@0.6.2 </tspan>
-<tspan x="10" y="3594">      └─┬ resolve@1.3.2 </tspan>
+<tspan x="10" y="3594">      └─┬ resolve@1.3.3 </tspan>
 <tspan x="10" y="3610">        └── path-parse@1.0.5</tspan>
 </text>
 </svg>
